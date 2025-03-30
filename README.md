@@ -1,2 +1,2 @@
 # Amazon-clone
-this is clone website of amazon  
+Amazon clone project web site 
