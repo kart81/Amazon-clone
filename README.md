@@ -1,3 +1,3 @@
 # Amazon-clone
 
-Amazon clone project web site 
+Amazon clone project web-site 
